@@ -1,0 +1,2 @@
+# CSharpConsole-ProjectDBSMgtSystem
+A college project whilst on my Higher Diploma in Science in Computing course (2016/17).  The college project is a basic proof of concept project on console for a student management system through C# and .Net. The console program is persistent but as a proof of concept application does not use a relational database. Instead persistence is achieved through the use of lists and file read/writes.
