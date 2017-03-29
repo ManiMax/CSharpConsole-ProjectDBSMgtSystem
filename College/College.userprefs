@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{88C08A10-169C-41F2-9150-7FB37EABF04C}|Default" VersionControlDisabled="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="College/TestClass.cs">
+    <Files>
+      <File FileName="College/Program.cs" Line="24" Column="27" />
+      <File FileName="College/Person.cs" Line="4" Column="18" />
+      <File FileName="College/Student.cs" Line="284" Column="9" />
+      <File FileName="College/Staff.cs" Line="36" Column="26" />
+      <File FileName="College/Lecturer.cs" Line="311" Column="5" />
+      <File FileName="College/IProcessList.cs" Line="17" Column="31" />
+      <File FileName="College/TestClass.cs" Line="18" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.College PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
